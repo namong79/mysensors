@@ -4,7 +4,7 @@
 #define MY_RADIO_RF24
 //#define MY_RADIO_RFM69
 //#define MY_RS485
-#define MY_NODE_ID 7
+#define MY_NODE_ID 7      // Changer per your Mysensors Node number
 #define CHILD_ID_LIGHT_1 0
 #define CHILD_ID_LIGHT_2 1
 #define CHILD_ID_LIGHT_3 2
